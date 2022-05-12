@@ -4,7 +4,7 @@ namespace Autor
     {
         private string imie;
         private string nazwisko;
-        int id = -1;
+        private int id = -1;
         public c_autor() { }
         public c_autor(string f_imie, string f_nazwisko, int f_id)
         {
